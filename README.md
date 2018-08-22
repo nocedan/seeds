@@ -1,5 +1,7 @@
-# terton
+# Sessao 1
 
-Um guia de referência para professores de tecnologia e criatividade para crianças e adolescentes.
+Texto 1
 
 # Porquê ensinar criatividade e tecnologia?
+
+Texto 2
