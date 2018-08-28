@@ -14,7 +14,7 @@ Estes são recursos que já foram testados em sala de aula. Em particular, o Scr
 
 ## Scratch
 
-Software gratuito (MIT Media Lab desde 2007) no qual jovens são encorajados a criar as suas próprias histórias, jogos e animações interativos. Permite a criança a se ver como alguém que constrói com tecnologia e não apenas consumidores. Atualmente, disponível em versões online e offline, inclusive para Raspberry pi e está disponível em Português.
+O [Scratch](https://scratch.mit.edu/) é um software gratuito (MIT Media Lab desde 2007) no qual jovens são encorajados a criar as suas próprias histórias, jogos e animações interativos. Permite a criança a se ver como alguém que constrói com tecnologia e não apenas consumidores. Atualmente, disponível em versões online e offline, inclusive para Raspberry pi e está disponível em Português.
 
 > Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
 
@@ -23,11 +23,11 @@ Veja uma demonstração [aqui](https://youtu.be/-SjuiawRMU4).
 
 ## code.org
 
-O code.org é uma instituição sem fins lucrativos, que visa incentivar pessoas a dar os primeiros passos com programação. No site, encontramos diversos jogos e ferramentas didáticas, disponíveis também em português. As aulas frequentemente são introduzidas com vídeos onde personalidades como Mark Zuckerberg e Bill Gates, que falam sobre sua experiência pessoal com os tópicos presentes naquele módulo, por exemplo.
+O [code.org](https://code.org/) é uma instituição sem fins lucrativos, que visa incentivar pessoas a dar os primeiros passos com programação. No site, encontramos diversos jogos e ferramentas didáticas, disponíveis também em português. As aulas frequentemente são introduzidas com vídeos onde personalidades como Mark Zuckerberg e Bill Gates, que falam sobre sua experiência pessoal com os tópicos presentes naquele módulo, por exemplo.
 
 ## Programaê
 
-O Programaê! é um portal que reúne recursos para incentivar jovens a entrar em contato com a tecnologia. Entre os recursos estão disponíveis trilhas de aprendizado e planos de aula. Em geral, os recursos fazem referência a terceiras partes como o Scratch, code.org ou Codeacademy, ajudando na navegação do usuário pela grande variedade de recursos disponíveis para aprender a programar.
+O [Programaê!](http://programae.org.br/) é um portal que reúne recursos para incentivar jovens a entrar em contato com a tecnologia. Entre os recursos estão disponíveis trilhas de aprendizado e planos de aula. Em geral, os recursos fazem referência a terceiras partes como o Scratch, code.org ou Codeacademy, ajudando na navegação do usuário pela grande variedade de recursos disponíveis para aprender a programar.
 
 
 ## O Raspberry Pi
