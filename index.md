@@ -32,11 +32,11 @@ O Programaê! é um portal que reúne recursos para incentivar jovens a entrar e
 
 ## O Raspberry Pi
 
-O Raspberry Pi é um computador pequeno e barato, que pode ser utilizado para aprender a programar. Além de abrir a possibilidade de muitos projetos que envolvem automação e robótica, no nosso contexto atual é uma forma acessível de ensinar programação, introduzir o ambiente Linux e também mostrar as crianças o potencial enorme desta pecinha fofinha de hardwere.
+O [Raspberry Pi](https://www.raspberrypi.org/) é um computador pequeno e barato, que pode ser utilizado para aprender a programar. Além de abrir a possibilidade de muitos projetos que envolvem automação e robótica, no nosso contexto atual é uma forma acessível de ensinar programação, introduzir o ambiente Linux e também mostrar as crianças o potencial enorme desta pecinha fofinha de hardwere.
 
 Para completar o roteiro, é sugerida mas não mandatória a utilização do Raspberry Pi, como uma forma de baixar os custos de montagem da turma e também como demonstração deste hardwere que possibilida muitas possibilidades.
 
-Qual o modelo, como comprar... etc
+No Brasil, é possível comprar o um Pi homologado pela anatel na loja [flipe-flope](https://www.filipeflop.com/)
 
 # Roteiro de aulas
 
