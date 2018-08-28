@@ -19,7 +19,7 @@ Software gratuito (MIT Media Lab desde 2007) no qual jovens são encorajados a c
 > Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
 
 
-https://youtu.be/-SjuiawRMU4
+Veja uma demonstração [aqui](https://youtu.be/-SjuiawRMU4).
 
 ## code.org
 
