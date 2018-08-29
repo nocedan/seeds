@@ -10,7 +10,7 @@ Se você não tem experiência com ferramentas didáticas de programação, o ro
 
 # Scratch, code.org, Programaê e Raspberry pi
 
-Estes são recursos que já foram testados em sala de aula. Em particular, o Scratch e o code.org são os principais referenciais para o roteiro sugerido nesta página.
+Estes são recursos que já foram testados em sala de aula. Em particular, o Scratch, Programaê! e o code.org são os principais referenciais para o roteiro sugerido nesta página.
 
 ## Scratch
 
@@ -23,24 +23,24 @@ Veja uma demonstração [aqui](https://youtu.be/-SjuiawRMU4).
 
 ## code.org
 
-O [code.org](https://code.org/) é uma instituição sem fins lucrativos, que visa incentivar pessoas a dar os primeiros passos com programação. No site, encontramos diversos jogos e ferramentas didáticas, disponíveis também em português. As aulas frequentemente são introduzidas com vídeos onde personalidades como Mark Zuckerberg e Bill Gates, que falam sobre sua experiência pessoal com os tópicos presentes naquele módulo, por exemplo.
+O [code.org](https://code.org/) é uma instituição sem fins lucrativos, que visa incentivar pessoas a dar os primeiros passos com programação. No site, encontramos diversos jogos e ferramentas didáticas, disponíveis também em português. As aulas frequentemente são introduzidas com vídeos onde personalidades como Mark Zuckerberg e Bill Gates falam sobre sua experiência pessoal com os tópicos presentes naquele módulo, loops e eventos, por exemplo.
 
 ## Programaê
 
-O [Programaê!](http://programae.org.br/) é um portal que reúne recursos para incentivar jovens a entrar em contato com a tecnologia. Entre os recursos estão disponíveis trilhas de aprendizado e planos de aula. Em geral, os recursos fazem referência a terceiras partes como o Scratch, code.org ou Codeacademy, ajudando na navegação do usuário pela grande variedade de recursos disponíveis para aprender a programar.
+O [Programaê!](http://programae.org.br/) é um portal que reúne recursos para incentivar jovens a entrar em contato com a tecnologia. Entre os recursos estão disponíveis trilhas de aprendizado e planos de aula. Em geral, os recursos fazem referência a terceiras partes como o Scratch, code.org ou [Codeacademy](https://www.codecademy.com/pt-BR/learn), ajudando na navegação do usuário pela grande variedade de recursos disponíveis para aprender a programar.
 
 
 ## O Raspberry Pi
 
-O [Raspberry Pi](https://www.raspberrypi.org/) é um computador pequeno e barato, que pode ser utilizado para aprender a programar. Além de abrir a possibilidade de muitos projetos que envolvem automação e robótica, no nosso contexto atual é uma forma acessível de ensinar programação, introduzir o ambiente Linux e também mostrar as crianças o potencial enorme desta pecinha fofinha de hardwere.
+O [Raspberry Pi](https://www.raspberrypi.org/) é um computador pequeno e barato, que pode ser utilizado para aprender a programar. Além de abrir a possibilidade de muitos projetos que envolvem automação e robótica, no nosso contexto é uma forma acessível de ensinar programação, introduzir o ambiente Linux e também mostrar as crianças o potencial enorme desta pecinha fofinha de hardwere.
 
-Para completar o roteiro, é sugerida mas não mandatória a utilização do Raspberry Pi, como uma forma de baixar os custos de montagem da turma e também como demonstração deste hardwere que possibilida muitas possibilidades.
+Para completar o roteiro, é sugerida mas não mandatória a utilização do Raspberry Pi, como uma forma de baixar os custos de montagem da turma e também como demonstração deste hardwere que proporciona muitas possibilidades.
 
-No Brasil, é possível comprar o um Pi homologado pela anatel na loja [flipe-flope](https://www.filipeflop.com/)
+No Brasil, é possível comprar o um Pi homologado pela anatel na loja [flipe-flope](https://www.filipeflop.com/).
 
 # Roteiro de aulas
 
-Este roteiro, já foi testado e melhorado de forma iterativa a partir das observações em sala de aula. Consiste em 5 aulas, que cobrem o básico da programação de computadores através da linguagem Blockly, utilizada pelo Scratch e pelo code.org.
+Este roteiro, já foi testado e melhorado de forma iterativa a partir das observações em sala de aula. Consiste em 5 aulas, que cobrem o básico da programação de computadores através da linguagem Blockly, utilizada pelo code.org e do Scratch, que é muito semelhante.
 
 Na primeira aula, programação com blocos é introduzida através de exercícios do code.org. Em seguida, migramos para o Scratch, que permite a exploração de recursos mais avançados da programação para a criação de animações e jogos.
 
