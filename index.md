@@ -32,9 +32,9 @@ O [Programaê!](http://programae.org.br/) é um portal que reúne recursos para 
 
 ## O Raspberry Pi
 
-O [Raspberry Pi](https://www.raspberrypi.org/) é um computador pequeno e barato, que pode ser utilizado para aprender a programar. Além de abrir a possibilidade de muitos projetos que envolvem automação e robótica, no nosso contexto é uma forma acessível de ensinar programação, introduzir o ambiente Linux e também mostrar as crianças o potencial enorme desta pecinha fofinha de hardwere.
+O [Raspberry Pi](https://www.raspberrypi.org/) é um computador pequeno e barato, que pode ser utilizado para aprender a programar. Além de abrir a possibilidade de muitos projetos que envolvem automação e robótica, no nosso contexto é uma forma acessível de ensinar programação, introduzir o ambiente Linux e também mostrar as crianças o potencial enorme desta pecinha fofinha de hardware.
 
-Para completar o roteiro, é sugerida mas não mandatória a utilização do Raspberry Pi, como uma forma de baixar os custos de montagem da turma e também como demonstração deste hardwere que proporciona muitas possibilidades.
+Para completar o roteiro, é sugerida mas não mandatória a utilização do Raspberry Pi, como uma forma de baixar os custos de montagem da turma e também como demonstração deste hardware que proporciona muitas possibilidades.
 
 No Brasil, é possível comprar o um Pi homologado pela anatel na loja [flipe-flope](https://www.filipeflop.com/).
 
@@ -50,7 +50,7 @@ Cada aula da sequência abaixo tem em média 50min a 1h de duração e foram tes
 
 #### A. O que é o Scratch? Aquecendo os motores com a Hora do Código.
 
-* Neste tópico, faça uma breve introdução ao curso, que terá 5 aulas de aproximadamente 1h. "Neste curso, iremos produzir animações e jogos de nossa autoria utilizando um softwere chamado Scratch...". Utilize os Slides 1 e 4 [desta apresentação](https://docs.google.com/presentation/d/1dkvSEHCMYBlGNXV8NyX8ZepeL31WmDHjnhy5MjPJkSM/edit?usp=sharing). 	e dê o play no vídeo do Slide 4.
+* Neste tópico, faça uma breve introdução ao curso, que terá 5 aulas de aproximadamente 1h. "Neste curso, iremos produzir animações e jogos de nossa autoria utilizando um software chamado Scratch...". Utilize os Slides 1 e 4 [desta apresentação](https://docs.google.com/presentation/d/1dkvSEHCMYBlGNXV8NyX8ZepeL31WmDHjnhy5MjPJkSM/edit?usp=sharing). 	e dê o play no vídeo do Slide 4.
 
 * Mostre e deixe que manuseiem o Raspberry Pi. Fale um pouco sobre ele, quanto custa, possibilidades de projetos... etc.
 
