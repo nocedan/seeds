@@ -18,8 +18,7 @@ O [Scratch](https://scratch.mit.edu/) é um software gratuito (MIT Media Lab des
 
 > Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
 
-
-Veja uma demonstração [aqui](https://youtu.be/-SjuiawRMU4).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-SjuiawRMU4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## code.org
 
@@ -100,7 +99,9 @@ substantivo masculino
 
 #### Corrida Olímpica
 
-* Chame os alunos em sequência para competir na [Corrida Olímpica](https://scratch.mit.edu/projects/241855361/) Os alunos geralmete se divertem quando descobrem que você está utilizando a tecla 't' para ganhar todas as partidas. Geralmente replicam esse tipo de truque nos projetos deles.
+* Chame os alunos em sequência para competir na [Corrida Olímpica](https://scratch.mit.edu/projects/241855361/) Os alunos geralmete se divertem quando descobrem que **você está utilizando a tecla 't' para ganhar todas as partidas**. Geralmente replicam esse tipo de truque nos projetos deles. Use a tecla **espaço e seta para direita** para controlar os personagens.
+
+ <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/241855361/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
 * Se você não tem familiaridade com o Scratch. No editor online, basta seguir o seguinte [tutorial](https://cdn.scratch.mit.edu/scratchr2/static/__0e83330413f7a7b5731284573c98ccdc__/help/en/howto/racegame-intro.html). Caso você prefira, clicando no botão de ajuda do scratch (?) e depois em "All Tips" há uma variedade de tutoriais, inclusive este.
 
@@ -108,12 +109,19 @@ substantivo masculino
 
 * Sugerimos que isso seja feito junto com os alunos e no tempo deles. Como a experimentação faz parte do aprendizado, não é aconselhavel apressar as coisas ou se manter rigidamente no escopo da Corrida Olímpica.
 
-* Segue um exemplo interessante de uma aluna que substituiu a competição por um [passeio de amigos com personagens de sua criação](https://scratch.mit.edu/projects/241859454/).
+* Segue um exemplo interessante de uma aluna que substituiu a competição por um [passeio de amigos com personagens de sua criação](https://scratch.mit.edu/projects/241859454/). Para controlar, utilize a **tecla 'espaço' e seta para a direita. 't' para turbo!**
+
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/241859454/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    
 
 ### Aula #3: If Else Dragon (ou Dragão Se Senão)
 
 #### Projeto If Else Dragon
 * [Este projeto](https://scratch.mit.edu/projects/230247777/) introduz movimentações mais complexas dos personagens. Inicie a aula convidando os alunos a interagirem com os movimentos do dragão e mostrando a decomposição destes movimentos em duas partes: o movimento acionado pelas setas e o de zig zag que ele faz o tempo todo, simulando seu vôo.
+
+**Para controlar o Dragão, pressione a tecla 'espaço' e as setas de direção:**
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/230247777/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    
 
 * O ideal para esta aula, é que os alunos sejam guiados passo a passo, a começando pela escolha dos personages e fundos de tela (que fica a cargo deles, é claro!).
 
@@ -129,6 +137,8 @@ substantivo masculino
 
 * A [animação OvO](https://scratch.mit.edu/projects/144875945/#player) é um belissimo exemplo de projeto no Scratch. Começamos a aula com esta inspiração. Vale abrir o 'veja por dentro' e clicar em 'Fantasias' para visualizar a mudança de fantasias do personagem em tempo de execução.
 
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/144875945/?autostart=false" frameborder="0" allowfullscreen></iframe>
+
 #### Remixando um projeto
 
 * Um remix, é algo que os programadores fazem com frequência. Utilizar um código ou projeto pronto para modificar de forma que atenda seus objetivos. Também é uma forma excelente de aprender com o código dos outros.
@@ -137,8 +147,7 @@ substantivo masculino
 
 * Entre as modificações possíveis, estão o tamanho dos personagens, seu movimento e velocidade, o Fundo de Tela, a música, etc...duplicar personagens também é interessante!
 
-* No Scratch online, basta clicar no botão 'veja por dentro' e depois de modificar clique em 'remixar'. Se estiver offline, basta carregar o projeto, modificá-lo e salvá-lo depois.
-
+* No Scratch online, basta clicar no botão 'veja por dentro' e depois de modificar clique em 'remixar'. Se estiver offline, basta carregar o projeto, modificá-lo e salvá-lo depois
 * [Um exemplo de remix]() do proejeto acima.
 
 ### Aula #5: Polígonos
@@ -146,6 +155,9 @@ substantivo masculino
 #### Desafio: Polígonos
 
 * Objetivos: Trabalhar com geometria e funções em um projeto Scratch que desenha [polígonos com a quantidade de lados dada pelo usuário](https://scratch.mit.edu/projects/241897074/#player).
+
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/241897074/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    
 
 * Inicie a uma demonstração, pedindo aos alunos que dêem um número de lados para que vejam o resultado. O que acontece quando o número de lados fica muito alto, como 100? Notaram que os lados do polígono possuem diferentes cores?
 
