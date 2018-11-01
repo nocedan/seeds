@@ -45,130 +45,19 @@ Na primeira aula, programação com blocos é introduzida através de exercício
 
 Cada aula da sequência abaixo tem em média 50min a 1h de duração e foram testadas em turmas de 2 a 4 alunos.
 
-### Aula #1: Familiarização com a linguagem de blocos
+[Aula #1: Familiarização com a linguagem de blocos](./aula-intro.html)
 
-#### A. O que é o Scratch? Aquecendo os motores com a Hora do Código.
+[Aula #2: Primeiro projeto no Scratch!](./aula-primeiro-projeto-scratch.html)
 
-* Neste tópico, faça uma breve introdução ao curso, que terá 5 aulas de aproximadamente 1h. "Neste curso, iremos produzir animações e jogos de nossa autoria utilizando um software chamado Scratch...". Utilize os Slides 1 e 4 [desta apresentação](https://docs.google.com/presentation/d/1dkvSEHCMYBlGNXV8NyX8ZepeL31WmDHjnhy5MjPJkSM/edit?usp=sharing). 	e dê o play no vídeo do Slide 4.
+[Aula #3: If Else Dragon (ou Dragão Se Senão)](./aula-if-else.html)
 
-* Mostre e deixe que manuseiem o Raspberry Pi. Fale um pouco sobre ele, quanto custa, possibilidades de projetos... etc.
+[Aula #4: Remix](./aula-remix.html)
+
+[Aula #4: (opção) Construindo seus memes](./aula-memes.html)
+
+[Aula #5: Polígonos](./aula-desafio.html)
+
+[Aula #5: (opção): Elementos de games](./aula-games.html)
 
 
-#### B. Programando com Blocos
 
-* "Para aquecer os motores iremos iniciar com a Hora do código". O foco desta aula, será a programação por blocos, proposta na seleção de atividades do code.org, feita pela [Hora do código](http://programae.org.br/horadocodigo/) do Programaê!.
-
-* Inicie pela siga pela trilha do Nivel 1 [Angry Birds](https://studio.code.org/hoc/1?utm_source=programae&utm_campaign=HoraDoCodigo&utm_term=AngryBirds). Esta trilha contém atividades com os personagens do Angry Birds, Plants and Zombies e Era do Gelo.
-
-* Não é necessário que sejam completados todos os estágios, sendo o objetivo apenas a familizarização com a programação por blocos e os conceitos propostos.
-
-* Como os vídeos são em inglês, e muitas crianças não tem familiaridade ou paciência com as legendas, fica para o tutor a missão de introduzir os conceitos necessários para cada etapa do labirinto.
-
-* Uma possibilidade é que ao completar as atividades até a parte do Angry Birds (~1/3 do labirinto) ou a Plants and Zombies (~2/3) e depois mudar para a atividade do [Star Wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1?utm_source=programae&utm_campaign=HoraDoCodigo&utm_term=StarWarsBlocos), que têm forte apelo para os fãns da série.
-
-* Se houver alguma criança com dificuldade de leitura, é recomendado um [labirinto](https://studio.code.org/s/course1/stage/7/puzzle/1) especial para crianças que não foram alfabetizadas.
-
-#### C. Até a próxima!
-
-* Para se despedir, dar o play na seguinte [animação do Scratch](https://scratch.mit.edu/projects/223410020/) como forma de inspirar e motivar as próximas aulas.
-
-### Aula #2: Primeiro projeto no Scratch!
-
-#### Introdução: algoritmos e tecnologia
-
-* Na aula anterior, utilizamos uma sequencia de blocos de instruções para gerar um comportamento mais complexo dos personagens no labirinto. A esta sequência de instruções que tem um objetivo, chamamos de algoritmo.
-
-* Os algoritmos estão presentes na maioria das aplicações mais excitantes da tecnologia. Aqui, seguem dois videos, para motivar o inicio da aula. [Ping pong robótico](https://www.youtube.com/watch?v=tIIJME8-au8) e [Atlas (terminator)](https://www.youtube.com/watch?v=fRj34o4hN4I).
-
-```
-Algoritmo
-substantivo masculino
-
- 1.matemática
- Sequência finita de regras, raciocínios ou operações que, 
- aplicada a um número finito de dados, permite solucionar
- classes semelhantes de problemas.
-    
- 2.informática
- Conjunto das regras e procedimentos lógicos perfeitamente
- definidos que levam à solução de um problema em um número
- finito de etapas.
-
-(Dicionário do Google)
-```
-
-#### Corrida Olímpica
-
-* Chame os alunos em sequência para competir na [Corrida Olímpica](https://scratch.mit.edu/projects/241855361/) Os alunos geralmete se divertem quando descobrem que **você está utilizando a tecla 't' para ganhar todas as partidas**. Geralmente replicam esse tipo de truque nos projetos deles. Use a tecla **espaço e seta para direita** para controlar os personagens.
-
- <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/241855361/?autostart=false" frameborder="0" allowfullscreen></iframe>
-
-* Se você não tem familiaridade com o Scratch. No editor online, basta seguir o seguinte [tutorial](https://cdn.scratch.mit.edu/scratchr2/static/__0e83330413f7a7b5731284573c98ccdc__/help/en/howto/racegame-intro.html). Caso você prefira, clicando no botão de ajuda do scratch (?) e depois em "All Tips" há uma variedade de tutoriais, inclusive este.
-
-* Agora com o Scratch aberto, passo a passo, vá guiando os alunos na construção de um análogo da Corrida Olímpica de sua propria autoria. Primeiro você pede para que escolham um fundo de tela, depois dois personagens e logo em seguida ensina os comandos de movimento de cada personagem. Não esqueça de escolher uma trilha sonora inspiradora!
-
-* Sugerimos que isso seja feito junto com os alunos e no tempo deles. Como a experimentação faz parte do aprendizado, não é aconselhavel apressar as coisas ou se manter rigidamente no escopo da Corrida Olímpica.
-
-* Segue um exemplo interessante de uma aluna que substituiu a competição por um [passeio de amigos com personagens de sua criação](https://scratch.mit.edu/projects/241859454/). Para controlar, utilize a **tecla 'espaço' e seta para a direita. 't' para turbo!**
-
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/241859454/?autostart=false" frameborder="0" allowfullscreen></iframe>
-    
-
-### Aula #3: If Else Dragon (ou Dragão Se Senão)
-
-#### Projeto If Else Dragon
-* [Este projeto](https://scratch.mit.edu/projects/230247777/) introduz movimentações mais complexas dos personagens. Inicie a aula convidando os alunos a interagirem com os movimentos do dragão e mostrando a decomposição destes movimentos em duas partes: o movimento acionado pelas setas e o de zig zag que ele faz o tempo todo, simulando seu vôo.
-
-**Para controlar o Dragão, pressione a tecla 'espaço' e as setas de direção:**
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/230247777/?autostart=false" frameborder="0" allowfullscreen></iframe>
-    
-
-* O ideal para esta aula, é que os alunos sejam guiados passo a passo, a começando pela escolha dos personages e fundos de tela (que fica a cargo deles, é claro!).
-
-* Na escolha dos personagens, é interessante que estes possuam mais de uma fantasia (ou seja, tenham movimentação). Assim, quando for apertada uma certa tecla, a movimentação inicia e termina com a tecla sendo solta, com o mecanismo If Else (Se Senão).
-
-* Assim como na aula anterior, o output pelos alunos pode ser muito diferente do que foi proposto. Essa experimentação criativa é muito saudável e os mantém motivados.
-
-* Este é um [exemplo](https://scratch.mit.edu/projects/241860300/), no qual um aluno desviou um pouco da proposta, e criou um projeto muito interessante. Ele manteve algumas das movimentações complexas presentes no Dragão e adicionou outras que substituiram o bloco If Else. 
-
-### Aula #4: Remix
-
-#### Inspiração
-
-* A [animação OvO](https://scratch.mit.edu/projects/144875945/#player) é um belissimo exemplo de projeto no Scratch. Começamos a aula com esta inspiração. Vale abrir o 'veja por dentro' e clicar em 'Fantasias' para visualizar a mudança de fantasias do personagem em tempo de execução.
-
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/144875945/?autostart=false" frameborder="0" allowfullscreen></iframe>
-
-#### Remixando um projeto
-
-* Um remix, é algo que os programadores fazem com frequência. Utilizar um código ou projeto pronto para modificar de forma que atenda seus objetivos. Também é uma forma excelente de aprender com o código dos outros.
-
-* Nesta aula, o aluno é encorajado a utilizar o conhecimento que já possui e também experimentar com novos blocos enquanto faz um remix de um projeto a sua escolha (nossa sugestão é a própria [animação OvO](https://scratch.mit.edu/projects/144875945/#player)).
-
-* Entre as modificações possíveis, estão o tamanho dos personagens, seu movimento e velocidade, o Fundo de Tela, a música, etc...duplicar personagens também é interessante!
-
-* No Scratch online, basta clicar no botão 'veja por dentro' e depois de modificar clique em 'remixar'. Se estiver offline, basta carregar o projeto, modificá-lo e salvá-lo depois
-* [Um exemplo de remix]() do proejeto acima.
-
-### Aula #5: Polígonos
-
-#### Desafio: Polígonos
-
-* Objetivos: Trabalhar com geometria e funções em um projeto Scratch que desenha [polígonos com a quantidade de lados dada pelo usuário](https://scratch.mit.edu/projects/241897074/#player).
-
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/241897074/?autostart=false" frameborder="0" allowfullscreen></iframe>
-    
-
-* Inicie a uma demonstração, pedindo aos alunos que dêem um número de lados para que vejam o resultado. O que acontece quando o número de lados fica muito alto, como 100? Notaram que os lados do polígono possuem diferentes cores?
-
-* O passo a passo consiste em introduzir para eles a caneta e o apagador, mudar a espessura do desenho e também as cores.
-
-* Pedir para que desenhem um zigue zague, introduzindo o movimento de girar e também ensinando como funcionam os ângulos.
-
-* Com um bloco de repetição, desenhar um quadrado.
-
-* Extender o quadrado para um polígono de número fixo de lados n, mudando o angulo para 360/n e mudando a quantidade de repetições no bloco de repetição. Use o bloco de expressões calculadas para isso.
-
-* Introduzir a variável com a resposta do usuário, fazer a pergunta adequada e com isso criar uma função que executa o desenho para um número qualquer de lados.
-
-* Reduzir o tamanho dos lados do polígono, conforme aumentam o número de lados, para que a função seja escalável.
