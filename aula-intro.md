@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Aula #1: Familiarização com a linguagem de blocos
+### Aula 1: Familiarização com a linguagem de blocos
 
 #### A. O que é o Scratch? Aquecendo os motores com a Hora do Código.
 
@@ -27,7 +27,10 @@ layout: default
 
 #### C. Até a próxima!
 
-* Para se despedir, dar o play na seguinte [animação do Scratch](https://scratch.mit.edu/projects/223410020/) como forma de inspirar e motivar as próximas aulas.
+* Para se despedir, dar o play na seguinte animação do Scratch como forma de inspirar e motivar as próximas aulas.
+
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/223410020/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    
 
 
 [voltar](./)

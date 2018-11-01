@@ -1,4 +1,4 @@
-### Aula #4: Memes!
+### Aula 4: Memes!
 
 ![Construa](./construa_seus_memes.png)
 

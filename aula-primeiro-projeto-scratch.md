@@ -1,4 +1,4 @@
-### Aula #2: Primeiro projeto no Scratch!
+### Aula 2: Primeiro projeto no Scratch!
 
 #### Introdução: algoritmos e tecnologia
 

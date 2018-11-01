@@ -1,4 +1,4 @@
-### Aula #3: If Else Dragon (ou Dragão Se Senão)
+### Aula 3: If Else Dragon (ou Dragão Se Senão)
 
 #### Projeto If Else Dragon
 * [Este projeto](https://scratch.mit.edu/projects/230247777/) introduz movimentações mais complexas dos personagens. Inicie a aula convidando os alunos a interagirem com os movimentos do dragão e mostrando a decomposição destes movimentos em duas partes: o movimento acionado pelas setas e o de zig zag que ele faz o tempo todo, simulando seu vôo.
