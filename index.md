@@ -45,19 +45,18 @@ Na primeira aula, programação com blocos é introduzida através de exercício
 
 Cada aula da sequência abaixo tem em média 50min a 1h de duração e foram testadas em turmas de 2 a 4 alunos.
 
-[Aula #1: Familiarização com a linguagem de blocos](./aula-intro.html)
+Clique:
 
-[Aula #2: Primeiro projeto no Scratch!](./aula-primeiro-projeto-scratch.html)
+#### [1. Familiarização com a linguagem de blocos](./aula-intro.html)
 
-[Aula #3: If Else Dragon (ou Dragão Se Senão)](./aula-if-else.html)
+#### [2. Primeiro projeto no Scratch!](./aula-primeiro-projeto-scratch.html)
 
-[Aula #4: Remix](./aula-remix.html)
+#### [3. If Else Dragon (ou Dragão Se Senão)](./aula-if-else.html)
 
-[Aula #4: (opção) Construindo seus memes](./aula-memes.html)
+#### [4. Remix](./aula-remix.html)
 
-[Aula #5: Polígonos](./aula-desafio.html)
+#### [4. (opção) Construindo seus memes](./aula-memes.html)
 
-[Aula #5: (opção): Elementos de games](./aula-games.html)
-
+#### [5. Polígonos](./aula-desafio.html)
 
 
